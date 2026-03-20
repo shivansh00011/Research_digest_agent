@@ -68,7 +68,7 @@ research_digest/
 | `max_claims_per_source` | 15 | Max claims to extract per source |
 | `similarity_threshold` | 0.65 | Threshold for grouping similar claims |
 | `use_llm` | False | Use Gemini for extraction |
-| `model_name` | gemini-2.0-flash | Gemini model to use |
+| `model_name` | gemini-2.5-flash | Gemini model to use |
 
 ## API Keys
 
