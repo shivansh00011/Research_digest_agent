@@ -9,7 +9,7 @@ __pycache__/
 .venv
 venv/
 ENV/
-output/
+
 *.json
 !package.json
 .idea/
