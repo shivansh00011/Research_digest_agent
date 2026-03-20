@@ -1,0 +1,22 @@
+{
+  "name": "research-digest-agent",
+  "version": "1.0.0",
+  "description": "Autonomous research digest agent with LangGraph and Gemini LLM",
+  "main": "src/agent.py",
+  "scripts": {
+    "start": "streamlit run app.py",
+    "test": "python tests/run_tests.py",
+    "cli": "python -m src.agent"
+  },
+  "keywords": [
+    "research",
+    "nlp",
+    "langgraph",
+    "gemini",
+    "llm",
+    "digest",
+    "summarization"
+  ],
+  "author": "",
+  "license": "MIT"
+}

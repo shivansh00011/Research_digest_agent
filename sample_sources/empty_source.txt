@@ -1,0 +1,3 @@
+# Empty source file - for testing error handling
+
+This file intentionally contains minimal content.
